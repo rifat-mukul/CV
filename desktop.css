@@ -102,9 +102,15 @@
 
 /* achievment contact starts from here */
 
+
+.contact input, textarea{
+    width: 100%;
+}
+
 .achievment-contact{
     padding-right: 50px;
 }
+
 
 .contact button{
     width: 150px;
