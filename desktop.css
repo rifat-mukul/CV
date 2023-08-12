@@ -129,3 +129,17 @@
 }
 
 /* achievment contact ends from here */
+
+/* footer starts from here */
+
+.footer-menu{
+    margin-top: 12px;
+}
+
+.footer-menu a{
+    display: inline;
+    margin: 10px;
+    
+}
+
+/* footer ends from here */

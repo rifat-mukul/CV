@@ -343,7 +343,7 @@ p{
     padding: 1% 7%;
     background-color: teal;
     color: aliceblue;
-    border-radius: 50px;
+    border-radius: 30px;
 }
 
 .contact{
@@ -412,3 +412,31 @@ p{
 }
 
 /* achievment contact ends from here */
+
+/* footer starts from here */
+
+.footer{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+    font-size: 0.8rem;
+    border-radius: 30px;
+}
+
+.footer-menu a{
+    display: block;
+    margin: 15px 0;
+    font-size: 1rem;
+}
+
+.footer-menu a:hover{
+    color: gray;
+}
+
+.footer::after{
+    display: table;
+    clear: both;
+    content: '';
+}
+/* footer ends from here */
